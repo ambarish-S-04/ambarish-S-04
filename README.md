@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ambarish-Singh/Ambarish-Singh/main/images/space-banner.svg" alt="Space Banner" width="100%"/>
+</div>
+
 # Ambarish Animesh Singh
 
 ## Mission Log: Stardate 2025.12.12
@@ -78,6 +82,10 @@ Created a pipeline for automated rooftop detection and solar potential estimatio
 
 ## Research Logs (Publications)
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=18&duration=3000&pause=1000&color=5C8DBC&center=true&vCenter=true&width=600&lines=RESEARCH+PAPERS+AND+PUBLICATIONS" alt="Research Papers and Publications" />
+</div>
+
 ### IEEE OTCON 2023
 *Automated Crater & Boulder Detection on Lunar Terrain Using Hybrid CNN Architecture*  
 Presented novel techniques for automated feature detection in planetary science applications.
@@ -98,11 +106,17 @@ I believe the most meaningful advancements occur at the intersection of discipli
 
 ## Mission Control (Contact)
 
-For research collaborations, technical discussions, or project inquiries:
-
-- **Research Repository**: [GitHub](https://github.com/Ambarish-Singh)
-- **Communication Channel**: [Your professional email]
-- **Mission Logs**: [Your personal website or blog]
+<div align="center">
+  <a href="https://github.com/Ambarish-Singh">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
 
 ---
 
@@ -114,6 +128,16 @@ For research collaborations, technical discussions, or project inquiries:
 
 ---
 
-> *"The universe is under no obligation to make sense to you."* — Neil deGrasse Tyson
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=12&duration=4000&pause=1000&color=5C8DBC&center=true&vCenter=true&width=600&lines=SYSTEM+STATUS%3A+ACTIVE;RESEARCH+IN+PROGRESS;EXPLORATION+CONTINUES" alt="System Status" />
+  
+  *"The universe is under no obligation to make sense to you."* — Neil deGrasse Tyson
+  
+  <img src="https://komarev.com/ghpvc/?username=Ambarish-Singh&style=flat-square&color=blue" alt="Profile Views" />
+  
+  *Last log entry: December 12, 2025*
+</div>
 
-*Last log entry: December 12, 2025*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ambarish-Singh/Ambarish-Singh/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</div>
