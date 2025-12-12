@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;Who+am+I;Ambarish+Singh;Where%3F;Pune%2C+India;What%3F;Student+of+Computer+Engineering;Graduating+VIT+Pune+2026;What+I+do%3F;AI%2FML+Developer;Frontend+Web+Development"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;Who+am+I?;Ambarish+Singh;Where%3F;Pune%2C+India;What%3F;Student+of+Computer+Engineering;Graduating+VIT+Pune+2026;What+I+do%3F;AI%2FML+Developer;Frontend+Web+Development"
     alt="Typing animation"
   />
   
@@ -70,15 +70,15 @@
 
 ## 🌱 <span style="font-family: 'Fira Code', monospace">Currently Working On</span>
 
-> **FocusBubble**: A productivity and focus web application designed to enhance flow state using calm aesthetics and anime-inspired backgrounds.
+> **FocusBubble**: A productivity and focus web application designed to enhance flow state using calm aesthetics backgrounds.
 
 ## 🔬 <span style="font-family: 'Fira Code', monospace">Research & Publications</span>
 
-- [cite_start]**Detection of Craters and Boulders on Planetary Surfaces** [cite: 31, 51]
+- **Detection of Craters and Boulders on Planetary Surfaces** [cite: 31, 51]
   <br/> *Presented at **IEEE OTCON 4.0**, 2025*
   <br/> Designed a Hybrid CNN architecture based on FocusNet achieving superior IoU and F1 scores.
 
-- [cite_start]**Rooftop Solar Potential Mapping Using Computer Vision** [cite: 36, 52]
+- **Rooftop Solar Potential Mapping Using Computer Vision** [cite: 36, 52]
   <br/> *Presented at **Hineweis NCCT**, 2025*
   <br/> Estimated optimal solar panel placement and energy yield using CV-based segmentation pipelines.
 
