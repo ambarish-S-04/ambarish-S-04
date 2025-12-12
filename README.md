@@ -1,15 +1,10 @@
-<div align="center">
-  <h1>Ambarish Animesh Singh</h1>
-  <p>Computer Engineering · Systems · AI · Software</p>
-</div>
-
 <br/>
 
-<!-- Animated Terminal (Modern Fira Code) -->
+<!-- Larger Animated Terminal -->
 <div align="center">
   <img
     alt="Terminal typing animation"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=900&color=00FF9D&center=true&width=680&lines=$+whoami;Ambarish+Singh;$+status;Engineering+%C2%B7+AI+Systems+%C2%B7+Software+Development;$+uptime;2026+Graduate+%C2%B7+Pune,+India;$+lastlog;Profile+Synced+Successfully"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=900&color=00FF9D&center=true&vCenter=true&width=900&height=70&lines=$+whoami;Ambarish+Singh;$+status;Engineering+%C2%B7+AI+Systems+%C2%B7+Software;$+uptime;2026+Graduate+%E2%80%A2+Pune,+India;$+lastlog;System+Updated+Successfully"
   />
 </div>
 
@@ -17,57 +12,68 @@
 
 ## Skills
 
-**Languages**  
-Python · C++ · C · Java  
+<div align="center">
 
-**AI / ML**  
-Deep Learning · Computer Vision · LLMs · RAG · Fine-tuning  
+<!-- Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
 
-**Core Engineering**  
-Operating Systems · Computer Networks · DBMS · Compilers · Data Structures & Algorithms  
+<br/><br/>
 
-**Tools & Platforms**  
-Linux · Git · Docker · TensorFlow · PyTorch  
+<!-- AI / ML -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" />
 
-**Web Development**  
-HTML · CSS · JavaScript  
+<br/><br/>
+
+<!-- Core Engineering -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
+
+<br/><br/>
+
+<!-- Web -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
+
+</div>
 
 ---
 
 ## Projects
 
 ### **Crater & Boulder Detection (Hybrid CNN)**  
-Built a CNN-based segmentation system for lunar surface imagery (TensorFlow + GPU).
+TensorFlow-based lunar segmentation model with GPU acceleration.
 
 ### **Mini C Compiler**  
-Developed a functional compiler with lexical analysis, parsing, semantic checks, and IR generation using Lex & Yacc.
+Lex–Yacc compiler with lexer, parser, semantic checks, and IR generation.
 
 ### **Solar Potential Mapping (Computer Vision)**  
-Detected rooftops and estimated solar energy potential from satellite imagery using classical CV + heuristics.
+CV-based rooftop detection + solar energy estimation.
 
 ---
 
 ## Experience
 
 ### **Hanesbrands Inc. — Project Intern**  
-• Scraped multi-platform e-commerce data (Amazon, Walmart) for PEI analysis.  
-• Built Power BI and Python-based dashboards to track consumer trends across Asia.
+• Scraped Amazon/Walmart data for PEI analysis  
+• Built automated BI dashboards in Python + Power BI  
 
 ### **Infosys Springboard — AI Intern**  
-• Developed a Legal Risk Analyzer using IBM Watson LLM.  
-• Integrated clause detection and visualization into an interactive dashboard.
-
----
-
-## Certifications  
-IBM ML with Python · NVIDIA Deep Learning · IBM Full-Stack Developer
+• Developed Legal Risk Analyzer using IBM Watson LLM  
+• Built interactive clause visualization dashboard  
 
 ---
 
 ## Links  
 **GitHub:** https://github.com/Ambarish-Singh  
-**LinkedIn:** *add your link here*  
-**Email:** *add your email here*
+**LinkedIn:** *(add your link)*  
+**Email:** *(add your email)*  
 
 ---
 
