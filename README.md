@@ -3,7 +3,7 @@
 <div align="center">
   <img
     alt="Terminal typing animation"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=900&color=00FF9D&center=true&vCenter=true&width=900&height=70&lines=$+whoami;Ambarish+Singh;$+status;Engineering+·+AI+Systems+·+Software;$+uptime;2026+Graduate+·+Pune,India;$+lastlog;System+Updated+Successfully"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=900&color=00FF9D&center=true&width=900&lines=whoami;Ambarish+Singh;status;Engineering+·+AI+Systems+·+Software;uptime;2026+Graduate+·+Pune+India;lastlog;System+Updated+Successfully"
   />
 </div>
 
@@ -13,26 +13,20 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-</div>
-
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1700&pause=800&color=5C8DBC&center=true&vCenter=true&width=700&lines=Python+·+C%2B%2B+·+C+·+Java;TensorFlow+·+PyTorch+·+OpenCV;Linux+·+Git+·+Docker;HTML+·+CSS+·+JavaScript"
-  />
 </div>
 
 ---
@@ -54,11 +48,11 @@ CV-based rooftop detection + solar energy estimation.
 
 ### Hanesbrands Inc. — Project Intern  
 • Scraped Amazon/Walmart data for PEI analysis  
-• Built automated BI dashboards in Python + Power BI  
+• Built automated BI dashboards in Python + Power BI
 
 ### Infosys Springboard — AI Intern  
 • Developed Legal Risk Analyzer using IBM Watson LLM  
-• Built interactive clause visualization dashboard  
+• Built interactive clause visualization dashboard
 
 ---
 
@@ -66,7 +60,7 @@ CV-based rooftop detection + solar energy estimation.
 
 **GitHub:** https://github.com/ambarish-S-04  
 **LinkedIn:** https://www.linkedin.com/in/ambarish-singh-041aa8197/  
-**Portfolio:** https://ambarish-s-04.github.io/Ambarish-Singh/  
+**Portfolio:** https://ambarish-s-04.github.io/Ambarish-Singh/
 
 ---
 
