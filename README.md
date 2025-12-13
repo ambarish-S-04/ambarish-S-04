@@ -68,10 +68,6 @@
 
 <br/>
 
-## 🌱 <span style="font-family: 'Fira Code', monospace">Currently Working On</span>
-
-> **FocusBubble**: A productivity and focus web application designed to enhance flow state using calm aesthetics backgrounds.
-
 ## 🔬 <span style="font-family: 'Fira Code', monospace">Research & Publications</span>
 
 - **Detection of Craters and Boulders on Planetary Surfaces** [cite: 31, 51]
